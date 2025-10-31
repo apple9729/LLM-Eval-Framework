@@ -1,0 +1,7 @@
+default:
+  timeout: 30
+  max_tokens: 512
+models:
+  openai: true
+  huggingface: true
+  local: false
